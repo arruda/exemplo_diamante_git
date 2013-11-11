@@ -5,3 +5,5 @@ Um exemplo da forma de diamante que fica no git quando é usado o merge e como f
 
 Para mais Informações
 ---------------------
+
+http://www.arruda.blog.br/programacao/dicas-de-git-rebase-vs-merge/
